@@ -1,4 +1,4 @@
-# mybizna_isp
+# GMNET_isp
 
 A system for auto-billing clients with ability to enable and disable on payment and expiry respectively. The system works by integrating Odoo ERP with MPESA by interpreting message to payment and auto reconciling unpaid invoices with the payment transaction.
 
